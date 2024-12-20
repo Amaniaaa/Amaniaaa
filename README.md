@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security, programming, Art, Tech, Space
 - 🌱 I’m currently learning back-end programming and wireless security
 - 💞️ I’m looking to collaborate on projects regarding web security or wireless security
-- 📫 How to reach me professional Email: alotaibiamani5@gmail.com -----  College Email: 2022170875@cis.asu.edu.eg
+- 📫 How to reach me professional Email: alotaibiamani5@gmail.com 
 - 😄 Pronouns: she/her 
 
 <!---
